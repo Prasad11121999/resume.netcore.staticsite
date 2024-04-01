@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/resume.netcore.myproject/resume.netcore.myproject/bin/Debug/net6.0
+/resume.netcore.myproject/resume.netcore.myproject/obj/Debug/net6.0
+/resume.netcore.myproject/.vs/resume.netcore.myproject/config
